@@ -1,2 +1,4 @@
-# ARK-2 NTNU: Rosenborgbassenget, av Norun K. Kjerstad:
-Arbeidsfiler til Norun K. Kjerstad sitt ARK-2 prosjekt på NTNU.
+# ARK-2 NTNU: Rosenborgbassenget, av Norun Kristine Kjerstad:
+Arbeidsfiler til Norun Kristine Kjerstad sitt ARK-2 prosjekt på NTNU.
+
+Norun K. Kjerstad © 2022
